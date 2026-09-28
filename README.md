@@ -1,21 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/media/guaardvark-banner-dark.png">
-    <img src="docs/media/guaardvark-banner-light.png" alt="MediaForge-AI-Powered-Video-Intelligence-Cloud-Rendering-Platform — www.guaardvark.com" width="480">
-  </picture>
-</p>
 
-<!-- hero-video rotation: swap the bare user-attachments URL below.
-     Asset registry: https://github.com/guaardvark/guaardvark/issues/64
-     batman:    c6d9d18b-cfff-4ae2-8220-dc7f329fee5d
-     bladevark: 158c431c-0ff8-4b25-a1b2-b5fbebdc81d4
-     batvark:   b8f28582-6c1d-45b8-862e-9206a28cf103 -->
-
-<div align="center">
-
-https://github.com/user-attachments/assets/c6d9d18b-cfff-4ae2-8220-dc7f329fee5d
-
-</div>
 
 # MediaForge
 
