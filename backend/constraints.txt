@@ -21,7 +21,7 @@
 # isolated_plugin_venv.py): NOT applied there on purpose — those venvs manage
 # their own stacks and may legitimately want numpy 2.x.
 
-numpy<2.0,>=1.26.4
+numpy>=2.5.3,<3.0
 
 # OpenCV: the three distributions (opencv-python, -headless, -contrib) unpack
 # into ONE cv2/ directory and the last one installed wins. Different versions
