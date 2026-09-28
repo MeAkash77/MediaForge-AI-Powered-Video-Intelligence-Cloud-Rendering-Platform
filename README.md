@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/media/guaardvark-banner-dark.png">
-    <img src="docs/media/guaardvark-banner-light.png" alt="Guaardvark AI System — www.guaardvark.com" width="480">
+    <img src="docs/media/guaardvark-banner-light.png" alt="MediaForge-AI-Powered-Video-Intelligence-Cloud-Rendering-Platform — www.guaardvark.com" width="480">
   </picture>
 </p>
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/c6d9d18b-cfff-4ae2-8220-dc7f329fee5d
 
 </div>
 
-# Guaardvark
+# MediaForge
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI](https://github.com/guaardvark/guaardvark/actions/workflows/ci.yml/badge.svg)](https://github.com/guaardvark/guaardvark/actions/workflows/ci.yml)
@@ -697,7 +697,7 @@ Full setup, style, and PR expectations: **[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 [MIT License](LICENSE) — Copyright (c) 2025-2026 Albenze, Inc.
 
-"Guaardvark"™ and the Guaardvark logo are trademarks of Albenze, Inc. The MIT License covers the code, not the name; see [TRADEMARK.md](TRADEMARK.md) for what you may do with the name without asking.
+"Guaardvark"™ and the MediaForge-AI logo are trademarks of Albenze, Inc. The MIT License covers the code, not the name; see [TRADEMARK.md](TRADEMARK.md) for what you may do with the name without asking.
 
 <p align="center">
   <em>Guaardvark mascot</em>
