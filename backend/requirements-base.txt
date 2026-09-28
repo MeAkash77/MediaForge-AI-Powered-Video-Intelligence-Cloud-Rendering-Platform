@@ -33,7 +33,7 @@ duckduckgo-search==8.1.1
 
 # Database & Utilities
 psycopg2-binary==2.9.9
-python-slugify==8.0.4
+python-slugify==9.1.1
 loguru==0.7.2
 
 # LLM/AI Dependencies (without torch)
