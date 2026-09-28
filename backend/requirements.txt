@@ -28,7 +28,7 @@ redis==5.0.4
 eventlet==0.41.2
 
 # Data Processing & Analysis
-numpy<2.0,>=1.26.4  # Pin to <2.0 for PyTorch compatibility
+numpy>=2.5.3,<3.0  # Pin to <2.0 for PyTorch compatibility
 pandas==2.2.2
 pydantic==2.13.5
 psutil==7.2.2
